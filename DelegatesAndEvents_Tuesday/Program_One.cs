@@ -1,6 +1,6 @@
 ﻿namespace DelegatesAndEvents_Tuesday
 {
-    internal class Program
+    internal class Program_One
     {
         public delegate int Operation(int x, int y);
         static void Main(string[] args)
