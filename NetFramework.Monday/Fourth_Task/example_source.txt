@@ -1,0 +1,3 @@
+﻿This is the source file to copy.
+It will be copied to a new file.
+One more line
