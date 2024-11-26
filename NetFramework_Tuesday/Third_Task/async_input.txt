@@ -1,0 +1,3 @@
+﻿Async line 1
+Async line 2
+Async line 3
