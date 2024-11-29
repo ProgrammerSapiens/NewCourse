@@ -1,0 +1,9 @@
+﻿Hello, world!
+This is an example text containing several lines.
+Each line will be processed by your program.
+
+1. The first line contains text.
+2. The second line includes a numbered list.
+3. The third line can contain any data.
+
+End of file.
