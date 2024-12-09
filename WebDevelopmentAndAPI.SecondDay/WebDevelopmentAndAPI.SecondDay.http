@@ -1,0 +1,6 @@
+@WebDevelopmentAndAPI.SecondDay_HostAddress = http://localhost:5293
+
+GET {{WebDevelopmentAndAPI.SecondDay_HostAddress}}/User/
+Accept: application/json
+
+###
