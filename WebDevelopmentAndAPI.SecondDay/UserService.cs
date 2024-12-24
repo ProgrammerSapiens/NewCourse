@@ -2,7 +2,7 @@
 
 namespace WebDevelopmentAndAPI.SecondDay
 {
-    public class UserService
+    public class UserService : IUserService
     {
         private readonly string filePath;
 

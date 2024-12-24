@@ -26,8 +26,6 @@ namespace DesignPatterns.Wednesday
             databaseConnection.Connect();
             databaseConnection.Disconnect();
 
-            //Fourth task
-
         }
     }
 }

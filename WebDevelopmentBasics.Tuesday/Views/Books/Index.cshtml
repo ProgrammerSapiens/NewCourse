@@ -1,0 +1,28 @@
+﻿@using System.Collections.Generic
+@model List<WebDevelopmentBasics.Tuesday.Models.Book>
+
+@{
+    ViewData["Title"] = "Books list";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Author</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>@book.Id</td>
+                <td>@book.Title</td>
+                <td>@book.Author</td>
+            </tr>
+        }
+    </tbody>
+</table>
